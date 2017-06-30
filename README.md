@@ -81,7 +81,7 @@ Please read [CONTRIBUTING.md](https://github.com/imjeffparedes/) for details on 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/imjeffparedes/) file for details
+This project is licensed under the Attribution-NonCommercial-ShareAlike 2.5 License - see the [LICENSE.md](https://github.com/imjeffparedes/) file for details
 
 ## Acknowledgments
 
