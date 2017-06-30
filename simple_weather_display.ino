@@ -1,16 +1,16 @@
 
 /**
  * Easy Matrix Weather Display
+ * Weather Matrix Display
  * by Jefferson Paredes
  * Version: 1.0.0
  * 
  * Simple introduction to Internet of Things project 
  * Check this project on Instructables.com
- * Link: https://www.instructables.com/id/Easy-Matrix-Weather-Display
+ * Link: https://www.instructables.com/id/Weather-Matrix-Display/
  * 
- * Contribute to improve this project on gist!
- * Link: https://gist.github.com/imjeffparedes/
- * 
+ * Contribute to improve this project on github!
+ * Link: https://github.com/imjeffparedes/iot-simple-weather-matrix-display
  * 
  * Need Help?
  * Please email me here: imjeffparedes@gmail.com
