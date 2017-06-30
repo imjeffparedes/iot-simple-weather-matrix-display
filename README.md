@@ -21,9 +21,9 @@ Please follow these step by step series of examples that tell you have to use th
 
 1. Install prerequisite libraries
 
-2. Add the attached HexFont.h to your Arduino libraries.
+2. Add the attached **HexFont** folder to your Arduino libraries.
 
-3. Open simple_weather_display.ino with your Arduino IDE
+3. Open **simple_weather_display.ino** with your Arduino IDE
 
 4. Replace with your WiFi settings
 ```
