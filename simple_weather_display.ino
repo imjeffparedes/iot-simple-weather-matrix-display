@@ -224,17 +224,6 @@ void loop() {
   
 }
 
-/***** Display Functions **********/
-void changeChar(){
-  for (int x = 0; x < 8; x++) {
-   currentChar[x] = cp437_font[supportedASCICount][x];
-  }
-  supportedASCICount++;
-  if(supportedASCICount==supportedAsci.length())
-    supportedASCICount=0;
-}
-
-
 void setupChar(){
   for (int x = 0; x < 8; x++) {
     for (int y = 0; y < 8; y++) {
