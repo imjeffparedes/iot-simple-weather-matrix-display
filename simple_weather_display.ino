@@ -42,7 +42,7 @@ char pass[] = "";    // your network password (use for WPA, or use as key for WE
 int keyIndex = 0;            // your network key Index number (needed only for WEP)
 
 String apiKey = "8f0ff191defb4a20b5583518171203"; // your apixu api key
-String coordinates = "14.3335591,120.9758737"; // your location coordinates
+String coordinates = "34.0522,118.2437"; // your location coordinates
 
 int status = WL_IDLE_STATUS;
 
